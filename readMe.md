@@ -1,6 +1,6 @@
 
 # Deep learning linking mechanistic models to single-cell transcriptomics data reveals transcriptional bursting in response to DNA damage
-![image](https://github.com/cellfateTX/DeepTX/main/trainInferSSA/logo/deepTXlogo.jpg)
+![image](https://github.com/cellfateTX/DeepTX/blob/master/trainInferSSA/logo/deepTXlogo.jpg)
 Code and data for paper  "Deep learning linking mechanistic models to single-cell transcriptomics data reveals transcriptional bursting in response to DNA damage".
 
 ## System Requirements
