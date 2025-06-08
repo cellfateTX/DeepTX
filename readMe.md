@@ -22,7 +22,7 @@ The R code of data analysis and visualization for investigating the burst kineti
     Platform: x86_64-w64-mingw32/x64 (64-bit)
     Running under: Windows 10 x64 (build 19045)
 
-The matlab version information of getStatsData.m script in TraingInferSSA folder.
+The matlab version information of the getStatsData.m script in TraingInferSSA folder.
 
     MATLAB Version: 9.10.0.1649659 (R2021a) Update 1
     Operating System: Microsoft Windows 10 Professional Version 10.0 (Build 19044)
